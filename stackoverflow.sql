@@ -1,4 +1,7 @@
-/* The Stack Overflow dataset is a comprehensive collection of data extracted from Stack Overflow, a popular online community for programmers to ask and answer questions. This dataset includes information about users, questions, answers, tags, comments, badges, and more. It can be used to perform various types of analyses related to user behavior, trends in programming languages, and other aspects of software development. Here I am trying to breakdown the dataset to gain some insight 
+/* The Stack Overflow dataset is a comprehensive collection of data extracted from Stack Overflow,
+a popular online community for programmers to ask and answer questions. This dataset includes information about users, 
+questions, answers, tags, comments, badges, and more. It can be used to perform various types of analyses related to user behavior, 
+trends in programming languages, and other aspects of software development. Here I am trying to break the dataset to gain some insight 
 */
 
 -- List all the questions and all its answers for any questions related to Python programming language in 2020.
